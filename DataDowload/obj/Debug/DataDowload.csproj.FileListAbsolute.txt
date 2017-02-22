@@ -1,0 +1,9 @@
+D:\software\vs2015workspace\DataDowload\DataDowload\bin\Debug\DataDowload.exe.config
+D:\software\vs2015workspace\DataDowload\DataDowload\bin\Debug\DataDowload.exe
+D:\software\vs2015workspace\DataDowload\DataDowload\bin\Debug\DataDowload.pdb
+D:\software\vs2015workspace\DataDowload\DataDowload\bin\Debug\Newtonsoft.Json.dll
+D:\software\vs2015workspace\DataDowload\DataDowload\obj\Debug\DataDowload.Form1.resources
+D:\software\vs2015workspace\DataDowload\DataDowload\obj\Debug\DataDowload.Properties.Resources.resources
+D:\software\vs2015workspace\DataDowload\DataDowload\obj\Debug\DataDowload.csproj.GenerateResource.Cache
+D:\software\vs2015workspace\DataDowload\DataDowload\obj\Debug\DataDowload.exe
+D:\software\vs2015workspace\DataDowload\DataDowload\obj\Debug\DataDowload.pdb
